@@ -10,10 +10,15 @@ Built with **HTML, CSS, and JavaScript**, applying **SOLID principles** for clea
 ---
 ## 🎯 **Features**
 ✅ Add, edit, delete, and mark tasks as completed.
+
 ✅ Store tasks permanently in **Local Storage**.
+
 ✅ Responsive design with modern UI.
+
 ✅ Two separate task lists (Daily & Weekly).
+
 ✅ Implemented using **Object-Oriented Programming (OOP)** principles.
+
 
 ---
 ## 🏗 **Project Structure**
